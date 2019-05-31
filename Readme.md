@@ -4,8 +4,12 @@ Some Cheat-Sheets and Layouts I use in my lab. They come in handy when putting t
 and you need to have a quick look at how things work.
 
 - ARM
-    - Blue Pill and
+    - Blue Pill(Todo) and
     - Black Pill STM32F1 Development Boards
+- USBtoSerial
+    - FT232RL USB to Serial Adapter
+    - CP2102 USB to Serial Adapter
+
 
 ## Design Goals ##
 
