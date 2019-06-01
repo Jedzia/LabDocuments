@@ -50,5 +50,6 @@ Issue-Tracker: <insert brains here>
 2. Masters and Slaves are no fucking people. They are a hierarchical entity of electronic devices.
 3. Women can sit there and fill in hundreds of pin definitions in one go without going mad. That is a
    psychological fact, but do not point that out anywhere!
+3.1 Dont Make your breast physically bigger as it. Or it expl0des.
 4. Think of the visually impaired. Patterns with colors are preferable to colors alone. When the 
    content of a source material is to small to read, it has to be remade.
